@@ -1,0 +1,12 @@
+flask==2.3.2
+flask-cors==4.0.0
+torch>=2.2.0
+transformers>=4.35.0
+tokenizers>=0.15.0
+soundfile==0.12.1
+numpy>=1.26.3
+huggingface_hub>=0.16.4
+scipy>=1.16.3
+gunicorn
+python-dotenv
+librosa
